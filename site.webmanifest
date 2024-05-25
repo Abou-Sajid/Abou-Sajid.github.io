@@ -2,7 +2,6 @@
     "name": "Holly Quran Radio Station from Cairo",
     "short_name": "Quran Radio",
     "description": "Web application that enables you to listen, record, and convert Quran to mp3 files",
-    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
